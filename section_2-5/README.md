@@ -8,6 +8,6 @@ $ cargo run --bin bipartite_1 < samples/bipartite_1.in | diff samples/bipartite_
 
 ## ソースコード
 
-- src/bin/bipartitle_*.rs: 深さ優先探索による二部グラフ判定
+- src/bin/bipartite_*.rs: 深さ優先探索による二部グラフ判定
 - src/bin/bellman-ford.rs: ベルマンフォード法による単一始点最短路
 
