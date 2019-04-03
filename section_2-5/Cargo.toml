@@ -1,0 +1,8 @@
+[package]
+name = "section_2-5"
+version = "0.1.0"
+authors = ["yoshrc <immortal836@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+atcoder_snippets = { git = "https://github.com/yoshrc/rust-atcoder-snippets", branch = "develop" }
