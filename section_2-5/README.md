@@ -3,7 +3,7 @@
 ## 実行例
 
 ```
-$ cargo run --bin bipartite_1 < samples/bipartite_1.in | diff samples/bipartite_1.out
+$ cargo run --bin bipartite_impl1 < samples/bipartite_1.in | diff samples/bipartite_1.out
 ```
 
 ## ソースコード
