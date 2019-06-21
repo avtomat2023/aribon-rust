@@ -3,7 +3,7 @@
 [[package]]
 name = "atcoder_snippets"
 version = "0.0.1"
-source = "git+https://github.com/yoshrc/rust-atcoder-snippets?branch=develop#091f80dcbad07c0294198aac512b07888494450c"
+source = "git+https://github.com/yoshrc/rust-atcoder-snippets?branch=develop#852902129d60372309b889697c4aed24d91d94e4"
 dependencies = [
  "cargo-snippet 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
