@@ -1,0 +1,10 @@
+[package]
+name = "section_4-3"
+version = "0.1.0"
+authors = ["yoshrc <immortal836@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+atcoder_snippets = { git = "https://github.com/yoshrc/rust-atcoder-snippets", branch = "develop" }
